@@ -1,0 +1,22 @@
+[
+  {
+    "dealer": "John Smith",
+    "players": ["Alice Johnson", "Bob Wang", "Elena Rodriguez", "Mohammed Khan", "Yuki Tanaka"]
+  },
+  {
+    "dealer": "Maria Garcia",
+    "players": ["David Lee", "Sophie Dubois", "Carlos Lopez", "Ananya Patel", "Hiroshi Yamamoto"]
+  },
+  {
+    "dealer": "Liu Wei",
+    "players": ["Isabella Rossi", "Ravi Gupta", "Mia Nguyen", "Alejandro Fernandez", "Olga Ivanova"]
+  },
+  {
+    "dealer": "Anna Kowalski",
+    "players": ["Rajesh Sharma", "Emma Smith", "Khaled Al-Farsi", "Lucia Martinez", "Satoshi Suzuki"]
+  },
+  {
+    "dealer": "Chen Wei",
+    "players": ["Nina Kim", "Diego Rodriguez", "Aisha Khan", "Antonio Rossi", "Lila Chen"]
+  }
+]
